@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: black;
+}
+
+canvas{
+    background:url('../imagenes/fondo.jpg ');
+    border: solid 4px #fff;
+    border-bottom: 4px red;
+    border-style: solid;
+    margin: 0 auto;
+    display: block;
+}
